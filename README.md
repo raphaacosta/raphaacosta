@@ -9,4 +9,6 @@ I'm a FullStack Developer :rocket:
  :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript\
  :mag_right: &nbsp; I’m looking for help with: project ideas and tips on libs and best practices \
  :v: &nbsp; About me: I like to develop cool interfaces, code, gaming and study, this is my weekly routine (:coffee: &nbsp; I really like to drink coffee).\
- :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RaphaelCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-costa-4948aa1aa/)](https://www.linkedin.com/in/raphael-costa-4948aa1aa/)
+ :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RaphaelCosta-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-costa-4948aa1aa/)](https://www.linkedin.com/in/raphael-costa-4948aa1aa/)
+ &nbsp;
+ [![Gmail Badge](https://img.shields.io/badge/-camargo25.gustavo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camargo25.gustavo@gmail.com)](mailto:camargo25.gustavo@gmail.com)
