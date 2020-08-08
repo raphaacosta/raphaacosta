@@ -11,4 +11,4 @@ I'm a FullStack Developer :rocket:
  :v: &nbsp; About me: I like to develop cool interfaces, code, gaming and study, this is my weekly routine (:coffee: &nbsp; I really like to drink coffee).\
  :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RaphaelCosta-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-costa-4948aa1aa/)](https://www.linkedin.com/in/raphael-costa-4948aa1aa/)
  &nbsp;
- [![Gmail Badge](https://img.shields.io/badge/-camargo25.gustavo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camargo25.gustavo@gmail.com)](mailto:camargo25.gustavo@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-raphael.costa21@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphael.costa21@hotmail.com)](mailto:raphael.costa21@hotmail.com)
