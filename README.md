@@ -4,7 +4,7 @@
 Passionate about how technology can change people's lives\
 I'm a FullStack Developer :rocket:
 
- :octocat:  &nbsp; I'm only studying right now (but looking for a job)\
+ :octocat:  &nbsp; I'm studying and working as a Full Stack Developer\
  :wink: &nbsp; Looking for increase my knowledge and for contributing to others peolpe projects\
  :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript\
  :mag_right: &nbsp; I’m looking for help with: project ideas and tips on libs and best practices \
